@@ -1,0 +1,254 @@
+{
+  "Ementa": [
+    {
+      "Entradas": [
+        {
+          "id": 1,
+          "Nome": "Creme de Legumes",
+          "Preço": 2.5
+        },
+        {
+          "id": 2,
+          "Nome": "Sopa de Peixe, Camarão e Croutons",
+          "Preço": 7.5
+        },
+        {
+          "id": 3,
+          "Nome": "Presunto Pata Negra",
+          "Preço": 9.5
+        },
+        {
+          "id": 4,
+          "Nome": "Crocante de Alheira",
+          "Preço": 7.5
+        }
+      ]
+    },
+    {
+      "Peixe": [
+        {
+          "id": 5,
+          "Nome": "Garoupa (Kg)",
+          "Preço": 55
+        },
+        {
+          "id": 6,
+          "Nome": "Robalo (Kg)",
+          "Preço": 49.5
+        },
+        {
+          "id": 7,
+          "Nome": "Dourada (Kg)",
+          "Preço": 22.5
+        },
+        {
+          "id": 8,
+          "Nome": "Arroz à Pescador",
+          "Preço": 42.5
+        },
+        {
+          "id": 9,
+          "Nome": "Cataplana de Peixe (2Pax)",
+          "Preço": 70
+        },
+        {
+          "id": 10,
+          "Nome": "Massada de Peixe (2Pax)",
+          "Preço": 59.5
+        },
+        {
+          "id": 11,
+          "Nome": "Bacalhau com Broa (2Pax)",
+          "Preço": 42.5
+        },
+        {
+          "id": 12,
+          "Nome": "Lombinhos de Pescada com Molho de Marisco",
+          "Preço": 23
+        },
+        {
+          "id": 13,
+          "Nome": "Filetes de Pescada com Arooz de Grelos",
+          "Preço": 23
+        }
+      ]
+    },
+    {
+      "Carne": [
+        {
+          "id": 14,
+          "Nome": "Naco da Vazia na Braza (Angus)",
+          "Preço": 25
+        },
+        {
+          "id": 15,
+          "Nome": "Entrecôte de Novilho na Brasa",
+          "Preço": 23.5
+        },
+        {
+          "id": 16,
+          "Nome": "Rosbife à Inglesa (2Pax)",
+          "Preço": 52.5
+        },
+        {
+          "id": 17,
+          "Nome": "Tomahawk na Brasa (2Pax)",
+          "Preço": 70
+        },
+        {
+          "id": 18,
+          "Nome": "Lombinhos de Vitela na Grelha",
+          "Preço": 22.5
+        },
+        {
+          "id": 19,
+          "Nome": "T-Bone na Brasa",
+          "Preço": 25
+        }
+      ]
+    },
+    {
+      "Sobremesas": [
+        {
+          "id": 20,
+          "Nome": "Delícia de Aamndoas com Gelado",
+          "Preço": 7.5
+        },
+        {
+          "id": 21,
+          "Nome": "Pavlova",
+          "Preço": 6
+        },
+        {
+          "id": 22,
+          "Nome": "Pão-de-Ló Caseiro",
+          "Preço": 6
+        },
+        {
+          "id": 23,
+          "Nome": "Mousse de Chocolate",
+          "Preço": 5.5
+        },
+        {
+          "id": 24,
+          "Nome": "Banoffe",
+          "Preço": 6
+        },
+        {
+          "id": 25,
+          "Nome": "Cheesecake",
+          "Preço": 6.5
+        }
+      ]
+    }
+  ],
+  "Eventos": [
+    {
+      "02.06.2023": {
+        "id": 100,
+        "nome": "All that Jazz",
+        "foto": "/src/img/band1.png"
+      }
+    },
+    {
+      "03.06.2023": {
+        "id": 101,
+        "nome": "New Orleans",
+        "foto": "/src/img/band6.png"
+      }
+    },
+    {
+      "09.06.2023": {
+        "id": 103,
+        "nome": "Noted",
+        "foto": "/src/img/band3.png"
+      }
+    },
+    {
+      "10.06.2023": {
+        "id": 104,
+        "nome": "Girly",
+        "foto": "/src/img/band2.png"
+      }
+    },
+    {
+      "16.06.2023": {
+        "id": 105,
+        "nome": "Mack's Band",
+        "foto": "/src/img/band5.png"
+      }
+    },
+    {
+      "17.06.2023": {
+        "id": 106,
+        "nome": "MGJ",
+        "foto": "/src/img/band7.png"
+      }
+    },
+    {
+      "23.06.2023": {
+        "id": 107,
+        "nome": "Amy's Tribute",
+        "foto": "/src/img/band4.png"
+      }
+    }
+  ],
+  "Reservas": [
+    {
+      "nome": "Catarina Silva ",
+      "email": "s.catarina.b.silva@gmail.com",
+      "dataReserva": "2023-05-03",
+      "numeroPessoas": "5",
+      "pedidosEspeciais": "",
+      "id": 1
+    },
+    {
+      "nome": "Anabela",
+      "email": "anabela@gmail.com",
+      "dataReserva": "2023-06-13",
+      "numeroPessoas": "7",
+      "pedidosEspeciais": "1 cadeira de bebé por favor.",
+      "id": 2
+    },
+    {
+      "nome": "João Antunes",
+      "email": "joao.antunes@hotmail.com",
+      "dataReserva": "2023-09-28",
+      "numeroPessoas": "8",
+      "pedidosEspeciais": "Junto do palco",
+      "id": 3
+    },
+    {
+      "nome": "Maria dos Santos Azevedo",
+      "email": "mariasantos@gmail.com",
+      "dataReserva": "2023-12-31",
+      "numeroPessoas": "10",
+      "pedidosEspeciais": "Se não tiver mesa de 10, 2 mesas de 5 juntas",
+      "id": 4
+    },
+    {
+      "nome": "Joaquim Fonseca",
+      "email": "quim@hotmail.com",
+      "dataReserva": "2023-07-08",
+      "numeroPessoas": "6",
+      "pedidosEspeciais": "",
+      "id": 5
+    },
+    {
+      "nome": "Jose Mendes",
+      "email": "ze-mendes@hotmail.com",
+      "dataReserva": "2023-05-26",
+      "numeroPessoas": "3",
+      "pedidosEspeciais": "Perto do palco",
+      "id": 6
+    },
+    {
+      "nome": "João Silva",
+      "email": "joao@gmail.com",
+      "dataReserva": "2023-05-15",
+      "numeroPessoas": "1",
+      "pedidosEspeciais": "",
+      "id": 7
+    }
+  ]
+}
